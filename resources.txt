@@ -1,0 +1,15 @@
+Routing: http://cibonfire.com/docs/developer/routes
+
+Templating: 
+	http://twig.sensiolabs.org/doc/tags/extends.html
+	http://edmundask.github.io/codeigniter-twiggy/
+
+Database: https://github.com/illuminate/database
+
+Migrations: http://docs.phinx.org/en/latest/migrations.html
+
+ENV: https://github.com/vlucas/phpdotenv
+
+
+Other notable mentions
+https://github.com/ivantcholakov/starter-public-edition-4
