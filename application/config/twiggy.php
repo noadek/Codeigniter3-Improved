@@ -28,7 +28,7 @@
 |
 */
 
-$config['twiggy']['template_file_ext'] = '.htm';
+$config['twiggy']['template_file_ext'] = '.html.twig';
 
 
 /*
